@@ -22,3 +22,4 @@ logs
 # Adastra
 assets/adastra.manifest.json
 assets/cap-*
+snippets/adastra.liquid
